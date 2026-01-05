@@ -33,6 +33,7 @@ Este projeto apresenta uma análise exploratória das **principais causas de mor
 ## 📈 Principais Análises e Gráficos
 
 - **Top 5 causas de morte**: barras horizontais mostrando total de mortes.
+![Top 5 causas de morte](images/top5_causas_morte.png)
 - **Percentual de crescimento anual**: linha mostrando variação percentual ano a ano.
 - **Previsão com regressão linear**: histórico e projeção para anos futuros.
 - **Comparação por sexo e raça**: barras/linhas para entender diferenças demográficas.
